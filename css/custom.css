@@ -184,13 +184,17 @@
 }
 
 #videos iframe:hover {
-  transform: scale(1.3) !important;
+  transform: scale(1.2) !important;
 }
 
 /* payment */
 .qr {
   width: 100%;
   max-width: 250px;
+}
+
+#payment .h-100.p-2 {
+  min-height: 500px !important;
 }
 
 /* Parralax */

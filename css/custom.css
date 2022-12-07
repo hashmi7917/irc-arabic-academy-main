@@ -215,12 +215,12 @@
 /* custom parralax */
 .custom-parallax {
   background: url("../assets/social.jpg");
-
   min-height: 100px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 16px !important;
 }
 
 @media (max-width: 550px) {
